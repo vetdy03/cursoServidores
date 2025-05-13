@@ -1,0 +1,3 @@
+nslookup http://tis.cs.umss.edu.bo/ 
+nslookup tis.cs.umss.edu.bo 
+curl http://tis.cs.umss.edu.bo/ 
